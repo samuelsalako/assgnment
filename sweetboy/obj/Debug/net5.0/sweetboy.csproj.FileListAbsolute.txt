@@ -1,0 +1,16 @@
+C:\Users\Samuel\Desktop\legendary\sweetboy\bin\Debug\net5.0\sweetboy.exe
+C:\Users\Samuel\Desktop\legendary\sweetboy\bin\Debug\net5.0\sweetboy.deps.json
+C:\Users\Samuel\Desktop\legendary\sweetboy\bin\Debug\net5.0\sweetboy.runtimeconfig.json
+C:\Users\Samuel\Desktop\legendary\sweetboy\bin\Debug\net5.0\sweetboy.runtimeconfig.dev.json
+C:\Users\Samuel\Desktop\legendary\sweetboy\bin\Debug\net5.0\sweetboy.dll
+C:\Users\Samuel\Desktop\legendary\sweetboy\bin\Debug\net5.0\ref\sweetboy.dll
+C:\Users\Samuel\Desktop\legendary\sweetboy\bin\Debug\net5.0\sweetboy.pdb
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.dll
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\ref\sweetboy.dll
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.pdb
+C:\Users\Samuel\Desktop\legendary\sweetboy\obj\Debug\net5.0\sweetboy.genruntimeconfig.cache
